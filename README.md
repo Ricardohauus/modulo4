@@ -22,7 +22,11 @@ or manually clone the repo and then run `npm install`.
 
 `adonis new gonode --api-only`
 
-``
+`npm install -D eslint`
+
+`npx eslint --init`
+
+`npm i --save mysql`
 
 ### Migrations
 
