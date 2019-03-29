@@ -16,6 +16,8 @@ Use the adonis command to install the blueprint
 adonis new yardstick --api-only
 ```
 
+`adonis serve --dev`
+
 or manually clone the repo and then run `npm install`.
 
 ## Dependencies
@@ -27,6 +29,8 @@ or manually clone the repo and then run `npm install`.
 `npx eslint --init`
 
 `npm i --save mysql`
+
+`adonis install @adonisjs/mail`
 
 ### Migrations
 
